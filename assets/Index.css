@@ -17,3 +17,29 @@ pre {
   color:green;
   display:block;
 }
+
+a:selection {
+  color:red;
+}
+
+code {
+  color:yellow;
+}
+
+.display {
+  display:block;
+}
+
+.center {
+  text-align:center;
+}
+
+img {
+  display:block;
+}
+
+Audio,embed,iframe {
+  Display:block;
+  border-color:white;
+}
+
