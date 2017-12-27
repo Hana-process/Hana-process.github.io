@@ -1,0 +1,19 @@
+a {
+display:block;
+color:white;
+font-size:200.7px;
+}
+
+Button:hover {
+  display:block;
+  color:gold;
+}
+
+a:hover {
+    background-color: blue;
+}
+
+pre {
+  color:green;
+  display:block;
+}
